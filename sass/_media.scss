@@ -302,4 +302,18 @@
     .wiget{
         text-align: center;
     }
+    .main-content__item{
+        padding:0.5rem;
+       margin-left:0;
+       margin-right:0;
+       margin-top:1rem;
+        
+        
+            div{
+                img{
+                    width:40px;
+                    height: 40px;
+                }
+            }
+    }
 }
